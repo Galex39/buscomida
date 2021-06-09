@@ -1,0 +1,36 @@
+.btn-newpub{
+	border-radius: 50%;
+	width: 4em;
+	height: 4em;
+	position: -webkit-sticky;
+	position: sticky;
+    left: 93%;
+    bottom: 170px;
+}
+
+.main-title{
+	padding: 3em;
+}
+
+.card-separation{
+	padding: 2% 2% 2% 0;
+}
+
+.send-button{
+	align-self: center;
+}
+
+.pagUbication{
+	padding: 2%;
+	position: relative;
+	bottom: 10%;
+}
+
+.impub{
+    height: 270px;
+}
+
+.imgModal{
+	width: 100%;
+	height: 350px;
+}
